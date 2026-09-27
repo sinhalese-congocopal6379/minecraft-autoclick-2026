@@ -1,0 +1,2 @@
+/* rev-c8a21f-20260927 */
+v2.2 sep 27 2026: faster enum, csv encoding, tpm pcr, domain list
